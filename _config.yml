@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Mani Sotoodeh"
 title_separator          : "-"
 name                     : &name "Mani Sotoodeh"
-description              : &description "Academic Personal Page"
+description              : &description "Computer Science PhD Student at Emory University"
 url                      : https://manisci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "manisci/manisci.github.io"
+repository               : "manisci.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Manis29467226"
+  twitter          : "Manis29467226"
   vine             :
   weibo            :
   xing             :
