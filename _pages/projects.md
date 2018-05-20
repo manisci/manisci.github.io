@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume
@@ -22,7 +22,7 @@ Tensor Factorization for Phenotyping of patients with Chronic Diseases
 
 The purpose of this project was to obtain novel clusters of patients features and attributes using Tensor factorization applied on Electronic Healthcare 
 Records data. Once these clusters or phenotypes are chosen, one can conveniently take adavantage of membership information of each patients and whether 
-they belong to a specific cluster, or a set of attributes in future machine learning tasks, as summarized, less noisy features. The
+they belong to a specific cluster, or a set of attributes, in future machine learning tasks, as summarized, less noisy features. The
 final outcome being, that once we have more robust and reliable biomedical predictions, we may better be able to deliver
 appropriate intervention and course of treatment to the patients. 
 
