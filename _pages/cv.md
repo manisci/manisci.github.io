@@ -23,7 +23,7 @@ Work experience
 * Teaching Assistant and Research Assistant.	Emory University, Atlanta, GA 
   Holding office hours, answering questions, explaining concepts, designing quizzes
   CS170 Introduction to programming using Java
-  September 2016– present
+  September 2016– present 
 * Electrical Engineering Intern at ITRC       Tehran, Iran  Analyzing business plans for broadband technology in developing    world June 2014– September 2014  
 
   
