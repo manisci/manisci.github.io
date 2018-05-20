@@ -13,7 +13,9 @@ Brag Space ( or just a longer about me, depending on your perspective:D )
 ======
 I’m originally from Iran(born and raised ). More specifically from Northeastern part of Iran, Khorasan, where Kurmanji Kurds live. In addition to being a not-so-knowledgable Kurmanj, I’m a proud Persian :D I enjoy reading Persian poetry(specially Hafez), listening to Persian music, and cooking and eating Persian food, basically every bit of Iranian culture. You may even call me a not so terrible cook at time I cook Iranian food and desserts. 
 <br>
+<br>
 The story with my name? So Mani was this old Persia prophet, who founded a new religion, based on a book with his painting, and on the fundamental concepts of darkness and light, called Manichaiesm. Just so that you know, I’m terrible at painting, no resemblance in that regard :D
+<br>
 <br>
 When I’m not bursting with frustration over why something’s not working in my project, I enjoy running in nature, hiking, taking photographs, reading books on evolutionary psychology, psychology in general and neuroscience.Oh, and in case you missed it, I’m obsessed with smileys :D. 
 
