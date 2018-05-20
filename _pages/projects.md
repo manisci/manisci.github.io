@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /projects
 ---
-
+ 
 {% include base_path %}
 
 Using Graphical Models to extract Meaningful, High quality features From Electronic Health Records
