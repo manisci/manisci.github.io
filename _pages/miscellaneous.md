@@ -31,7 +31,7 @@ My Favorite things ( an indispendable part of academic personal webpages, after 
 <br>
 **Favorite Sport :** Football a.k.a soccer (only to watch) 
 <br>
-**Most stable and reliable and thus most precious thing in the world:** You devotedly liking someone.
+**Most stable and reliable and thus most precious thing in the world:** You devotedly liking someone.  
 
 
  
