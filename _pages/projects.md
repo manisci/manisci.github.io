@@ -18,7 +18,7 @@ are confirmed and tested carefully, they may be used for **disease prediction** 
 health - related outcomes. 
 
 Tensor Factorization for Phenotyping of patients with Chronic Diseases
-======
+======   
 
 The purpose of this project was to **obtain novel clusters** of patients features and attributes using Tensor factorization applied on Electronic Healthcare 
 Records data. Once these clusters or **phenotypes** are chosen, one can conveniently take adavantage of membership information of each patients and whether 
