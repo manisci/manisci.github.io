@@ -17,7 +17,7 @@ I’m originally from Iran(born and raised ). More specifically from Northeaster
 The story with my name? So Mani was this old Persia prophet, who founded a new religion, based on a book with his painting, and on the fundamental concepts of darkness and light, called Manichaiesm. Just so that you know, I’m terrible at painting, no resemblance in that regard :D
 <br>
 <br>
-When I’m not bursting with frustration over why something’s not working in my project, I enjoy running in nature, hiking, taking photographs, reading books on evolutionary psychology, psychology in general and neuroscience. Oh, and in case you missed it, I’m obsessed with smileys :D. 
+When I’m not bursting with frustration over why something’s not working in my project, I enjoy running in nature, hiking, taking photographs, reading books on evolutionary psychology, psychology in general and neuroscience. Oh, and in case you missed it, I’m obsessed with smileys :D.  
 
 My Favorite things ( an indispendable part of academic personal webpages, after all, we're entitled to have fun, you know!)
 ======
