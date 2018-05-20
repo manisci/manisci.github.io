@@ -29,7 +29,7 @@ Work experience
   
 Skills
 ======
-
+ 
 *	Python, C++,  C, Matlab, Java, , SQL
 *	Statistics, Machine learning, Classification, Clustering, Regression, Signal Processing, Natural Language Processing
 
