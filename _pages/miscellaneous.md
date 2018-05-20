@@ -17,8 +17,8 @@ When I’m not bursting with frustration over why something’s not working in m
 
 My Favorite things ( an indispendable part of academic personal webpages, after all, we're entitled to have fun, you know!)
 ======
-Favorite Books : The Catcher in the Rye, Anna Karenina
-Favorite Singers: Sam Smith, Adele
+Favorite Books : The Catcher in the Rye, Anna Karenina, Schopenhauer's Porcupines
+Favorite Singers: Sam Smith, Adele, Lana Del Rey, Mohsen Namjoo
 Favorite Food: Pasta, Khoreshte Esfenaj, Shole Zard
 Favorite Quote: Sages are the compass of all that exists in the world, only love knows that they are nothing but wanderers going over the circle over and over again. (Hafez)
 Favorite Sport: Football a.k.a soccer (only to watch) 
