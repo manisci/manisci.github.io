@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Mani Sotoodeh"
-title_separator          : "-"
+title_separator          : "-"  
 name                     : &name "Mani Sotoodeh"
 description              : &description "Computer Science PhD Student at Emory University"
 url                      : https://manisci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
