@@ -9,3 +9,4 @@ citation: 'Mani Sotoodeh, Joyce Ho. (2019). &quot;Improving length of stay predi
 ---
 
 [Download paper here](http://manisci.github.io/files/pred_length.pdf)
+ 
