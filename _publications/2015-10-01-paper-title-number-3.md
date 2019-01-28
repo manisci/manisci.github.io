@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Improving length of stay prediction using a hidden Markov model"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Mani Sotoodeh, Joyce Ho. (2019). &quot;Improving length of stay prediction using a hidden Markov model.&quot; <i>AMIA 2019 Summit</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about prediction of length of stay of ICU patients using a Hidden Markov Model.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://academicpages.github.io/files/pred_length.pdf)
