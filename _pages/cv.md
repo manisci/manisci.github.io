@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering Science(Telecommunication Engineering),University of Tehran, 2011
+* PhD in Computer Science Advisor: Dr. Joyce Ho GPA :3.7/4.0
+Emory University, Atlanta, GA August 2016 – Present (Expected May 2021)
+Research Interests: Healthcare Informatics, Graphical models,Tensor Factorization,Time Series Analysis Advisor: Dr Joyce Ho.
 
-  Thesis Title: Computational Models of human vision, Advisor:Dr Reshad Hosseini
-* Ph.D in Computer Science, Emory University, 2021 (expected)
-
-  Research Interests: Healthcare Informatics, Graphical models,Tensor Factorization,Time Series Analysis Advisor: Dr Joyce Ho.
+* Bachelor of Science in Engineering Science, Telecommunication Engineering GPA: 3.15/4.0
+University of Tehran, Tehran, Iran August 2011-July 2015
+Thesis Title: Computational Models of human vision, Advisor: Dr Reshad Hosseini
 
 Work experience
 ======
-* Teaching Assistant and Research Assistant.	Emory University, Atlanta, GA 
-  Holding office hours, answering questions, explaining concepts, designing quizzes
-  CS170 Introduction to programming using Java
-  September 2016– present 
-* Electrical Engineering Intern at ITRC       Tehran, Iran  Analyzing business plans for broadband technology in developing    world June 2014– September 2014  
-
+* Research Assistant at Practical Data Mining & Exploration Lab Emory University, Atlanta, GA May 2018 – Present
+Tensor factorization for phenotyping in medical datasets to develop high quality features for various predication tasks
+Predicting length of stay of ICU patients using Graphical Models and raw Electronic Health Records data
+* Fellow, Data Science for Social Good  Foundation, Imperial College Business School, London June 2019-August 2019
+Helping Emergency Medical Services to identify High Utilizers for Proactive Care Services using call log data
+* Teaching Assistant for CS170 Emory University, Atlanta, GA September 2016– May 2018
+Largest intro to CS course at Emory, Introduction to programming using Java (2 times)
   
-Skills
+Programming and Technical Skills
 ======
- 
-*	Python, C++,  C, Matlab, Java, , SQL
-*	Statistics, Machine learning, Classification, Clustering, Regression, Signal Processing, Natural Language Processing
+* Python, MATLAB, C, C++, Java, SQL, Machine Learning, Data Mining, Graphical models, Tensor Factorization, Time series Analysis, Disease Progression Prediction.
 
 Projects
 ======
+* Helping Emergency Medical Services to identify High Utilizers for Proactive Care Services using call log data Summer 2019
 *	Devised SVM regression and neural networks model for prediction of survival time of brain cancer patients, with high accuracy Fall 2016     
 *	Implemented a question answering unit, capable of answering factual queries related to cities          	                       using Wikipedia data  Fall 2016 
 *	Implemented a user simulation method used in conjunction with dialogue manager systems to be tested  Spring 2017           
