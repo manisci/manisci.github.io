@@ -82,29 +82,29 @@ author:
   avatar           : "balag.jpg"
   bio              : "Computer Science PhD Student @ Emory University"
   location         : "Atlanta, GA, US"
-  employer         :
-  googlescholar    : "" 
-  email            :
-  uri              :
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?user=ThdY5QcAAAAJ&hl=en" 
+  email            : "msotood@emory.edu"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/manisetayesh"
   foursquare       :
   github           : "manisci"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/mani.sotoodeh/"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mani-sotoodeh-bb079082/"
   orcid            : "https://orcid.org/0000-0003-4786-1871"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Manis29467226"
+  twitter          : "SotoodehMani"
   vine             :
   weibo            :
   xing             :
