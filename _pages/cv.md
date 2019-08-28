@@ -54,7 +54,7 @@ Awards and Honors
 *	Won 3rd place in English Presentation competitions in Tehran high school students July 2012
 *	Won first place in humor writing competition amongst 500 participants July 2011	                                                                              
    
-LEADERSHIP AND COMMUNITY ENGAGEMENT 
+Leadership and Community Engagement
 ======
 * Volounteering for STEM Education Outreach  Spring 2018-Now
 * Author for Student magazine Satire columnist     Mashhad, Iran August 2000 –May 2007	 		
