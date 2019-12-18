@@ -9,6 +9,12 @@ redirect_from:
   
 {% include base_path %}
 
+
+Automatic detection of nursing quality metrics usingEHR data 
+======
+
+The aim of this collective project with multiple departments at Emory University is to apply computational techniques, like noisy labelling, weak supervision and truth inference methods on **Electronic Health Records**, freely and openly accessible on the Internet, to automatically extract relevant nursing qualities. These extracted meterics can infrom both nursing staff and management to better identify needs of patients. 
+
 Using Graphical Models to extract Meaningful, High quality features From Electronic Health Records
 ======
 
