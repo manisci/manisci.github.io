@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mani Sotoodeh"
 title_separator          : "-"  
 name                     : &name "Mani Sotoodeh"
-description              : &description "Computer Science PhD Candidate @Emory University"
+description              : &description "Computer Science PhD Candidate at Emory University"
 url                      : https://manisci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "manisci.github.io"
@@ -154,7 +154,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+  
 # Markdown Processing
 kramdown:
   input: GFM
@@ -306,3 +306,4 @@ compress_html:
    
 
 
+   
