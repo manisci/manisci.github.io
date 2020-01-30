@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science Advisor: Dr. Joyce Ho GPA :3.7/4.0
+* PhD in Computer Science  GPA :3.8/4.0
 
     Emory University, Atlanta, GA August 2016 – Present (Expected May 2021)
-    Research Interests: Healthcare Informatics, Graphical models,Tensor Factorization,Time Series Analysis Advisor: Dr Joyce Ho.
+    Research Interests: Healthcare Informatics, Graphical models,Tensor Factorization,Time Series Analysis Advisor, Noisy Labelling, Crowdsourcing, Weakly Supervised Learning: Dr Joyce Ho.
 
 * Bachelor of Science in Engineering Science, Telecommunication Engineering GPA: 3.15/4.0
 
@@ -51,10 +51,11 @@ Projects
 
 Selected Graduate Courses
 ======
-*	Machine Learning, Data mining, Artificial Intelligence, Advanced Algorithms, Natural Language Processing, Digital Image Processing, Distributed Processing, Database Systems, Systems Programming, Introduction to Biomedical Informatics
+*	Machine Learning, Data mining, Artificial Intelligence, Advanced Algorithms, Natural Language Processing, Digital Image Processing, Distributed Processing, High Performance Computing, Database Systems, Systems Programming, Introduction to Biomedical Informatics
   
 Awards and Honors
 ======
+* Finalist for Best Student Paper competition at AMIA 2019 Informatics Summit March 2019
 *	Ranked 3rd in my undergraduate class 2016   July 2015
 *	Won 3rd place in English Presentation competitions in Tehran high school students July 2012
 *	Won first place in humor writing competition amongst 500 participants July 2011	                                                                              
