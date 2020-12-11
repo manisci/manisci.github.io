@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science  GPA :3.8/4.0
+* PhD in Computer Science  GPA :3.85/4.0
 
     Emory University, Atlanta, GA August 2016 – Present (Expected May 2021)
-    Research Interests: Healthcare Informatics, Graphical models,Tensor Factorization,Time Series Analysis Advisor, Noisy Labelling, Crowdsourcing, Weakly Supervised Learning: Dr Joyce Ho.
+    Research Interests: Healthcare Informatics, Graphical models,Tensor Factorization,Time Series Analysis Advisor, Noisy Labelling, Crowdsourcing, Weakly Supervised Learning. Advisor: Dr. Joyce Ho Co-Advisor: Dr. Li Xiong
 
 * Bachelor of Science in Engineering Science, Telecommunication Engineering GPA: 3.15/4.0
 
