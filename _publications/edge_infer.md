@@ -1,4 +1,4 @@
-
+---
 title: " EdgeInfer: Robust Truth Inference under Data Poisoning Attack"
 collection: publications
 excerpt: 'Robust truth inference using matrix completion'
