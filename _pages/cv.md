@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science(ABD)
+* PhD in Computer Science(ABD)  Emory University, Atlanta, GA August 2016 – Present (Expected August 2021)
+Ph.D. Thesis: Crowdsourcing and Semi-Supervised Learning for Detection and Prediction of Hospital Acquired Pressure Ulcer 
 Advisor: Dr. Joyce Ho, Co-Advisor: Dr. Li Xiong
-    Emory University, Atlanta, GA August 2016 – Present (Expected August 2021)
-    Ph.D. Thesis: Crowdsourcing and Semi-Supervised Learning for Detection and Prediction of Hospital Acquired Pressure Ulcer 
 
 * Bachelor of Science in Engineering Science, Telecommunication Engineering 
 
