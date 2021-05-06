@@ -23,15 +23,14 @@ My Favorite things (an indispendable part of academic personal webpages, after a
 ======
 **Favorite Books** : The Catcher in the Rye, Anna Karenina, Schopenhauer's Porcupines, Creatures of a day
 <br>
-**Favorite Singers**: Sam Smith, Adele, Lana Del Rey, Mohsen Namjoo
+**Favorite Singers**: Sam Smith, Adele, Lana Del Rey, Shahram Nazeri, Keyhan Kalhor
 <br>
-**Favorite Food**: Pasta, Khoreshte Esfenaj, Shole Zard
+**Favorite Food**: Baghela Ghatogh, Pasta, Khoreshte Esfenaj, Shole Zard
 <br>
 **Favorite Quote**: Sages are the compass of all that exists in the world, only love knows that they are nothing but wanderers going over the circle over and over again. (Hafez)
 <br>
 **Favorite Sport :** Football a.k.a soccer (only to watch) 
 <br>
-**Most stable and reliable and thus most precious thing in the world:** You devotedly liking someone.  
 
 
  
