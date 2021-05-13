@@ -7,4 +7,5 @@ venue: 'IFIP Annual Conference on Data and Applications Security and Privacy 202
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-49669-2_18'
 citation: 'Farnaz Tahmasebian, Li Xiong, Mani Sotoodeh, Vaidy Sunderam  &quot; Crowdsourcing under data poisoning attacks: A comparative study&quot;<i>IFIP Annual Conference on Data and Applications Security and Privacy 2020</i>.'
 ---
-[Download paper here](http://manisci.github.io/files/crowd_paper.pdf)
+[Paper](http://manisci.github.io/files/crowd_paper.pdf)
+[Video](https://www.youtube.com/watch?v=cqqUgHfbTVA)
