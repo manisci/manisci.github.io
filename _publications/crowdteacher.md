@@ -10,9 +10,9 @@ citation: 'Mani Sotoodeh, Li Xiong, and Joyce C Ho, &quot;.CrowdTeacher: Robust 
 
 ---
 
-[Paper]: (https://www.springerprofessional.de/en/crowdteacher-robust-co-teaching-with-noisy-answers-and-sample-sp/19145500)
+[Paper] (https://www.springerprofessional.de/en/crowdteacher-robust-co-teaching-with-noisy-answers-and-sample-sp/19145500)
 
-[Slides]: (https://drive.google.com/file/d/1SAHBt7WGI3IY8TlQbHVl6n4VUhS90rgF/view?usp=sharing)
+[Slides] (https://drive.google.com/file/d/1SAHBt7WGI3IY8TlQbHVl6n4VUhS90rgF/view?usp=sharing)
 
-[Video]: (https://youtu.be/qzcYP2SVN7A)
+[Video] (https://youtu.be/qzcYP2SVN7A)
 
