@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /misc
 ---
- 
 {% include base_path %}
 
 Brag Space (or just a longer about me, depending on your perspective:D)
