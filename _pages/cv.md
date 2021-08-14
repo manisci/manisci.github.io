@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science(ABD)  Emory University, Atlanta, GA August 2016 – Present (Expected August 2021)
-Ph.D. Thesis: Crowdsourcing and Semi-Supervised Learning for Detection and Prediction of Hospital Acquired Pressure Ulcer 
+* PhD in Computer Science, Emory University, Atlanta, GA, U.S, August 2016 – August 2021
+Ph.D. Dissertation: Crowdsourcing and Semi-Supervised Learning for Detection and Prediction of Hospital Acquired Pressure Ulcer 
 Advisor: Dr. Joyce Ho, Co-Advisor: Dr. Li Xiong
 
 * Bachelor of Science in Engineering Science, Telecommunication Engineering 
@@ -30,7 +30,7 @@ Probabilistic Graphical Models, Noisy Labelling, Crowdsourcing, Weakly Supervise
 
 Work experience
 ======
-* Research Assistant at Practical Data Mining & Exploration Lab Emory University, Atlanta, GA May 2018 – Present
+* Research Assistant at Practical Data Mining & Exploration Lab Emory University, Atlanta, GA May 2018 – August 2021
 
     Tensor factorization for phenotyping in medical datasets to develop high quality features for various predication tasks
     Predicting length of stay of ICU patients using Graphical Models and raw Electronic Health Records data
