@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have a Ph.D. and M.S in Computer Science from Emory University and a B.S in Engineering Science from University of Tehran. I worked in *Practical Data Mining & Exploration Lab* and *Assured Information Management and Sharing Lab*  at Emory University, Department of Computer Science, under the supervison of *Dr. Joyce Ho* and *Dr. Li Xiong* . My research interests include *Machine Learning*, *Healthcare Informatics*, *Probabilistic Graphical Models*, *Noisy Labelling*, *Crowdsourcing* and many other stuff health related! Outside academia, I enjoy running, music, boardgames, and learning about Psychoanalysis and Neuroscience. 
+I'm a Postdoctoral Fellow at University of Montreal, School of Public Health working with Drs. Bouchra Nasri, Helene Carabin and Erin Rees. I have a Ph.D. and M.S in Computer Science from Emory University and a B.S in Engineering Science from University of Tehran. I worked in *Practical Data Mining & Exploration Lab* and *Assured Information Management and Sharing Lab*  at Emory University, Department of Computer Science, under the supervison of *Dr. Joyce Ho* and *Dr. Li Xiong* . My research interests include *Infectious disease modelling*, *Machine Learning*, *Healthcare Informatics*, *Probabilistic Graphical Models*, *Noisy Labelling*, *Crowdsourcing* and many other stuff health related! Outside academia, I enjoy running, music, boardgames, and learning about Psychoanalysis and Neuroscience. 
 
 Research Objective
 
