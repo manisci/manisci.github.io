@@ -30,13 +30,21 @@ Probabilistic Graphical Models, Noisy Labelling, Crowdsourcing, Weakly Supervise
 
 Work experience
 ======
+
+* Postdoctoral Fellow at School of Public Health, University of Montreal, Montreal, QC September 2021 – Present
+  
+  Modeling potential threats and incidence rate of infectious diseases using multiple sources of data.
+    
+    
 * Research Assistant at Practical Data Mining & Exploration Lab Emory University, Atlanta, GA May 2018 – August 2021
 
     Tensor factorization for phenotyping in medical datasets to develop high quality features for various predication tasks
-    Predicting length of stay of ICU patients using Graphical Models and raw Electronic Health Records data
+    Predicting length of stay of ICU patients using Graphical Models and raw Electronic Health Records data, Nursing quality metrics modeling.
+    
 * Fellow, Data Science for Social Good  Foundation, Imperial College Business School, London June 2019-August 2019
 
-    Helping Emergency Medical Services to identify High Utilizers for Proactive Care Services using call log data by developing a complete pipeline for applying classification on EHR data with multiple user-defined parameters.!
+    Helping Emergency Medical Services to identify High Utilizers for Proactive Care Services using call log data by developing a complete pipeline for applying classification on EHR data with multiple user-defined parameters.
+    
 * Teaching Assistant for CS170 Emory University, Atlanta, GA September 2016– May 2018
 
     Largest intro to CS course at Emory, Introduction to programming using Java (2 times)
