@@ -9,6 +9,9 @@ redirect_from:
   
 {% include base_path %}
 
+Analysing the Utility of Social Media in predicting the emrgence and situational awareness of Public Health Threats such as COVID-19 
+======
+The aim of this project was to show the gained performance boost when adding social media data streams to other formal textual data in the context of predicting Public Health Threats such as COVID-19.
 
 Automatic detection of nursing quality metrics using EHR data 
 ======
