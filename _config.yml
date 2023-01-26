@@ -1,5 +1,5 @@
 # Welcome to Jekyll!
-#
+#. 
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely ned to edit after that.  
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -11,7 +11,7 @@ title                    : "Mani Sotoodeh"
 title_separator          : "-"  
 name                     : &name "Mani Sotoodeh"
 description              : &description "Machine Learning in Healthcare Researcher, Ph.D. @EmoryUniversity
-💛💜🏳️‍⚧️🏳️‍🌈 (he/him)"
+💛💜🏳️‍⚧️🏳️‍🌈 (he/him) ** Woman, Life, Freedom **"
 url                      : https://manisci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "manisci.github.io"
