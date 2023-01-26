@@ -14,3 +14,5 @@ Research Objective
 Conducting healthcare informatics research deployable in the real world to ensure maximal benefit for a broader population in society especially for reducing social and healthcare disparities across minority groups. Deepening my grasp of theoretical machine learning while exploring practical considerations and nuances of turning research into public policy.
 
 
+**‌ Woman, Life, Freedom **
+** Femme, Vie, Liberté **
