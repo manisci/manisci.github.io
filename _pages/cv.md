@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in Computer Science, Emory University, Atlanta, GA, U.S, August 2016 – August 2021
-Ph.D. Dissertation: Crowdsourcing and Semi-Supervised Learning for Detection and Prediction of Hospital Acquired Pressure Ulcer 
+Ph.D. Dissertation: Crowdsourcing and Semi-Supervised Learning for Detection and Prediction of Hospital-Acquired Pressure Ulcer 
 Advisor: Dr. Joyce Ho, Co-Advisor: Dr. Li Xiong
 
 * Bachelor of Science in Engineering Science, Telecommunication Engineering 
@@ -22,7 +22,7 @@ Advisor: Dr. Joyce Ho, Co-Advisor: Dr. Li Xiong
     
 Research Objective
 ======
-Conducting healthcare informatics research deployable in the real world to ensure maximal benefit for a broader population in society especially for reducing social and healthcare disparities across minority groups. Deepening my grasp of theoretical machine learning while exploring practical considerations and nuances of turning research into public policy.
+Conducting healthcare informatics research deployable in the real world to ensure maximal benefit for a broader population in society, especially for reducing social and healthcare disparities across minority groups. Deepening my grasp of theoretical machine learning while exploring practical considerations and nuances of turning research into public policy.
 
 Research Interests
 ======
@@ -31,14 +31,17 @@ Probabilistic Graphical Models, Noisy Labelling, Crowdsourcing, Weakly Supervise
 Work experience
 ======
 
-* Postdoctoral Fellow at School of Public Health, University of Montreal, Montreal, QC September 2021 – Present
+* Senior Data Scientist, Canadian Institute for Health Information (CIHI), Ottawa, ON, June 2023 - Present
+
+  Manage the smooth transition from SAS to Python by handling ETL (Extract, Transform, Load) operations, ensuring a seamless flow of data through extraction, transformation, and loading processes.
+
+* Postdoctoral Fellow at School of Public Health, University of Montreal, Montreal, QC,  September 2021 – June 2023
   
-  Modeling potential threats and incidence rate of infectious diseases using multiple sources of data.
-    
+  Modeling potential threats and incidence rate of infectious diseases using multiple data Sources.
     
 * Research Assistant at Practical Data Mining & Exploration Lab Emory University, Atlanta, GA May 2018 – August 2021
 
-    Tensor factorization for phenotyping in medical datasets to develop high quality features for various predication tasks
+    Tensor factorization for phenotyping in medical datasets to develop high-quality features for various prediction tasks
     Predicting length of stay of ICU patients using Graphical Models and raw Electronic Health Records data, Nursing quality metrics modeling.
     
 * Fellow, Data Science for Social Good  Foundation, Imperial College Business School, London June 2019-August 2019
@@ -47,7 +50,7 @@ Work experience
     
 * Teaching Assistant for CS170 Emory University, Atlanta, GA September 2016– May 2018
 
-    Largest intro to CS course at Emory, Introduction to programming using Java (2 times)
+    Largest intro to CS course at Emory, Introduction to Programming using Java (2 times)
   
 Programming and Technical Skills
 ======
@@ -75,7 +78,6 @@ Awards and Honors
 *	Won 3rd place in English Presentation competitions in Tehran high school students July 2012
 *	Won first place in humor writing competition amongst 500 participants July 2011	                                 
 
-
 Reviewing Experiences
 ======
 
@@ -83,6 +85,6 @@ AMIA Annual Symposium and AMIA Informatics Summit						                         
                                   
 Leadership and Community Engagement
 ======
-* Volounteering for STEM Education Outreach  Spring 2018-Now
+* Volunteering for STEM Education Outreach  Spring 2018-Now
 * Author for Student magazine Satire columnist     Mashhad, Iran August 2000 –May 2007	 		
 * Active participation in humor competition Weekly column on a blog Tehran, Iran	April 2013 – November 2014  
